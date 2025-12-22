@@ -46,7 +46,7 @@ function Header() {
       >
         <img
           className="h-16 mt-2"
-          src="./public/zavai-logo.png"
+          src="/zavai-logo.png"
           alt="Company Logo"
         />
       </a>
