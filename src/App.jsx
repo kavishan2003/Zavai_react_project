@@ -43,7 +43,7 @@ function App() {
       {/* <Loader /> */}
       <Header />
       <Routes>
-        <Route path="/Home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/Mens" element={<Mens />} />
         <Route path="/Womens" element={<Womens />} />
         <Route path="/Unisex" element={<Unisex />} />

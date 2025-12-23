@@ -54,7 +54,7 @@ function Header() {
       <div className="w-full flex items-end h-35 bg-gray-100 border border-gray-200 ">
         <nav className="container mx-auto px-4 h-10 flex items-center justify-center">
           <ul className="flex space-x-8 font-small text-gray-700 gap-6 text-sm font-medium  hover:text-gray-900 transition-colors">
-            <Link to="/Home">
+            <Link to="/">
               <li>
                 <a href="/">Home</a>
               </li>
